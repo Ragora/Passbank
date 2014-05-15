@@ -3,7 +3,9 @@
 
 	Main source file for the passbank application.
 
-	Copyright (c) 2013 Robert MacGregor
+	This software is licensed under the Draconic
+	Free License version 1. Please refer to LICENSE.txt
+	for more information.
 """
 
 import sys
